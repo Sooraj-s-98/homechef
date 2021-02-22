@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "prop-types": "^15.6.2",
-    "react": "^16.6.0",
+    "react": "^17.0.1",
     "react-dom": "^16.6.0",
     "react-fontawesome": "^1.6.1",
     "react-infinite-scroll-component": "^5.1.0",
